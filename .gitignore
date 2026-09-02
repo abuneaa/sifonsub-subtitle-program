@@ -1,0 +1,11 @@
+build/
+dist/
+installer_output/
+*.bin
+models/
+gecici_ses.wav
+*.log
+.vs/
+.vscode/
+*.user
+Thumbs.db
