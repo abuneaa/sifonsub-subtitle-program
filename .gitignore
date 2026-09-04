@@ -9,3 +9,10 @@ gecici_ses.wav
 .vscode/
 *.user
 Thumbs.db
+external/ffmpeg/
+
+# CMake / IDE artıkları
+CMakeFiles/
+CMakeCache.txt
+*.dir/
+.idea/
