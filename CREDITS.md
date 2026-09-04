@@ -32,6 +32,9 @@ Copyright (c) 2023-2026 Georgi Gerganov.
 Distributed under the MIT License.
 https://github.com/ggerganov/whisper.cpp
 
+Full license texts for third-party components are available in the
+`third_party_licenses/` directory of this repository.
+
 ---
 
 All trademarks, service marks, and trade names used in this document are the
