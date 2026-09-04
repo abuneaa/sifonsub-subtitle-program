@@ -3,11 +3,9 @@ project(sifonsub)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_BINARY_DIR}/Release)
-
-
 set(GGML_VULKAN ON CACHE BOOL "" FORCE)
-
 add_subdirectory(external/whisper.cpp)
 add_executable(sifonsub
     src/main.cpp
